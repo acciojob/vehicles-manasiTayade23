@@ -6,5 +6,6 @@ public class Main {
         mercedes.move(10, 45);
         mercedes.accelerate(20);
         mercedes.accelerate(-60);
+
     }
 }
